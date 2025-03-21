@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/umami-software/umami/releases">
-    <img src="https://img.shields.io/github/release/umami-software/umami.svg" alt="GitHub Release" />
+  <a href="https://github.com/zhao2022-Ux/umami/releases">
+    <img src="https://img.shields.io/github/release/zhao2022-Ux/umami.svg" alt="GitHub Release" />
   </a>
-  <a href="https://github.com/umami-software/umami/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/umami-software/umami.svg" alt="MIT License" />
+  <a href="https://github.com/zhao2022-Ux/umami/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/zhao2022-Ux/umami.svg" alt="MIT License" />
   </a>
-  <a href="https://github.com/umami-software/umami/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/umami-software/umami/ci.yml" alt="Build Status" />
+  <a href="https://github.com/zhao2022-Ux/umami/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/zhao2022-Ux/umami/ci.yml" alt="Build Status" />
   </a>
   <a href="https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Try%20Demo%20Now-Click%20Here-brightgreen" alt="Umami Demo" />
@@ -47,7 +47,7 @@ npm install -g yarn
 ### Get the Source Code and Install Packages
 
 ```bash
-git clone https://github.com/umami-software/umami.git
+git clone https://github.com/zhao2022-Ux/umami.git
 cd umami
 yarn install
 ```
@@ -96,13 +96,13 @@ docker compose up -d
 Alternatively, to pull just the Umami Docker image with PostgreSQL support:
 
 ```bash
-docker pull docker.umami.is/umami-software/umami:postgresql-latest
+docker pull docker.umami.is/zhao2022-Ux/umami:postgresql-latest
 ```
 
 Or with MySQL support:
 
 ```bash
-docker pull docker.umami.is/umami-software/umami:mysql-latest
+docker pull docker.umami.is/zhao2022-Ux/umami:mysql-latest
 ```
 
 ---
@@ -129,13 +129,13 @@ docker compose up --force-recreate -d
 ## 🛟 Support
 
 <p align="center">
-  <a href="https://github.com/umami-software/umami">
+  <a href="https://github.com/zhao2022-Ux/umami">
     <img src="https://img.shields.io/badge/GitHub--blue?style=social&logo=github" alt="GitHub" />
   </a>
   <a href="https://twitter.com/umami_software">
     <img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/company/umami-software">
+  <a href="https://linkedin.com/company/zhao2022-Ux">
     <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://umami.is/discord">
@@ -143,17 +143,17 @@ docker compose up --force-recreate -d
   </a>
 </p>
 
-[release-shield]: https://img.shields.io/github/release/umami-software/umami.svg
-[releases-url]: https://github.com/umami-software/umami/releases
-[license-shield]: https://img.shields.io/github/license/umami-software/umami.svg
-[license-url]: https://github.com/umami-software/umami/blob/master/LICENSE
-[build-shield]: https://img.shields.io/github/actions/workflow/status/umami-software/umami/ci.yml
-[build-url]: https://github.com/umami-software/umami/actions
+[release-shield]: https://img.shields.io/github/release/zhao2022-Ux/umami.svg
+[releases-url]: https://github.com/zhao2022-Ux/umami/releases
+[license-shield]: https://img.shields.io/github/license/zhao2022-Ux/umami.svg
+[license-url]: https://github.com/zhao2022-Ux/umami/blob/master/LICENSE
+[build-shield]: https://img.shields.io/github/actions/workflow/status/zhao2022-Ux/umami/ci.yml
+[build-url]: https://github.com/zhao2022-Ux/umami/actions
 [github-shield]: https://img.shields.io/badge/GitHub--blue?style=social&logo=github
-[github-url]: https://github.com/umami-software/umami
+[github-url]: https://github.com/zhao2022-Ux/umami
 [twitter-shield]: https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter
 [twitter-url]: https://twitter.com/umami_software
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin
-[linkedin-url]: https://linkedin.com/company/umami-software
+[linkedin-url]: https://linkedin.com/company/zhao2022-Ux
 [discord-shield]: https://img.shields.io/badge/Discord--blue?style=social&logo=discord
 [discord-url]: https://discord.com/invite/4dz4zcXYrQ
